@@ -1,0 +1,17 @@
+--- # salandur.php meta
+
+galaxy_info:
+  author: Jeroen Ruijgers
+  company: Salandur
+  description: Manages PHP configuration on Apache
+  license: MIT
+  platforms:
+  - name: EL
+    versions:
+    - 6
+  categories:
+  - php
+  - apache
+
+dependencies:
+- salandur.php

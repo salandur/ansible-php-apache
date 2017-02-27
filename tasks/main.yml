@@ -1,0 +1,6 @@
+--- # salandur.php tasks
+
+- name: install PHP
+  package:
+    name: php
+    state: latest
