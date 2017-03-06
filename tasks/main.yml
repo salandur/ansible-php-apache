@@ -4,3 +4,4 @@
   package:
     name: php
     state: latest
+  become: yes
